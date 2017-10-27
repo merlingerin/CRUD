@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Преступление и наказание",
+            "author_id": 1,
+            "created_at": 1508929412,
+            "year": 1866
+        },
+        {
+            "id": 2,
+            "title": "Одиссея",
+            "author_id": 2,
+            "created_at": 1508929402,
+            "year": 0
+        },
+        {
+            "id": 3,
+            "title": "Илиада",
+            "author_id": 2,
+            "created_at": 1508929000,
+            "year": 0
+        },
+        {
+            "id": 4,
+            "title": "Приключения Оливера Твиста",
+            "author_id": 3,
+            "created_at": 1508929100,
+            "year": 1839
+        }
+    ],
+    "count": 4
+}
